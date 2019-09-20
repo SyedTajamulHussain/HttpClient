@@ -11,6 +11,7 @@ public class BaseClass {
 	public int Response_Status_Code_500 =500;
 	public int Response_Status_Code_401 =401;
 	public int Response_Status_Code_201 =201;
+	public int Response_Status_Code_501 =501;
 
 public Properties prop;	
 	//Constructor to read config.properties file
